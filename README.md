@@ -8,10 +8,10 @@ Mi enfoque principal es crear sitios web funcionales y estéticamente agradables
 ## 🔭 Proyectos Actuales
 - **[Proyecto 1](https://github.com/hdvalen/Hamburguesas_Pagina)**: Este proyecto es una pagina web creada en HTML y CSS en donde puse en practica mis conocimientos en estos lenguajes, permite explorar diferentes servicios y precios.
 - **[Proyecto 2](https://github.com/hdvalen/ProyectoConcierto.git)**: Este proyecto es una aplicación de eventos musicales que permite a los usuarios explorar, comprar y gestionar entradas para conciertos y otros eventos musicales. La plataforma tiene como objetivo proporcionar una experiencia de usuario amigable y accesible para facilitar la búsqueda y compra de entradas de manera sencilla.
-- 
+- **[Proyecto 1](https://github.com/hdvalen/departamentosColombia.git)**: Este proyecto es una web donde el usuario vera diferentes departamentos de Colombia y al seleccionarlos vera las costumbres y los platos tipicos de este departamento
 
 ## 📫 Cómo Contactarme
-- **Correo**: [Hodethcaballero@gmail.com]
+- **Correo**: Hodethcaballero@gmail.com
 
 
 ## 📈 Estadísticas de GitHub
