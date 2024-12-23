@@ -23,4 +23,4 @@ Mi enfoque principal es crear sitios web funcionales y estéticamente agradables
 ## 🤝 Gráfico de Contribuciones
 ![Gráfico de Contribuciones](https://activity-graph.herokuapp.com/graph?username=hdvalen&theme=rogue)
 
-Gracias por visitar mi perfil. No dudes en contactarme si quieres colaborar en un proyecto o simplemente charlar sobre tecnología.
+Gracias por visitar mi perfil. No dudes en contactarme si quieres colaborar.
