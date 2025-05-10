@@ -11,8 +11,10 @@ Soy una desarrolladora web en formación, apasionada por aprender y explorar nue
 - **[Proyecto 4](https://github.com/Omarjr33/projectf1.git)**: Este proyecto es una pagina Web que explora y gestiona vehículos, pilotos, equipos y circuitos de Fórmula 1 con un Crud
 - **[Proyecto 5](https://github.com/hdvalen/MySQLII.git)**: Este proyecto tiene como objetivo diseñar y desarrollar una base de datos que permita gestionar de manera eficiente todas las operaciones relacionadas con el seguimiento académico de estudiantes.
 
-
-
 ## 🏆 Lenguajes Principales
 ![Lenguajes Principales](https://github-readme-stats.vercel.app/api/top-langs/?username=hdvalen&layout=compact&theme=radical)
+
+##  Contribuciones
+![](profile-3d-contrib/profile-green.svg)
+
 
