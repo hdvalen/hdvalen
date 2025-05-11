@@ -22,7 +22,7 @@ Tecnologa en desarrollo de sistemas informáticos y desarrolladora de software e
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Contribuciones </b>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hdvalen&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hdvalen&bg_color=ffffff&color=000000&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 
