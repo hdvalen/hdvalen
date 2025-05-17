@@ -8,7 +8,7 @@ Tecnologa en desarrollo de sistemas informáticos y desarrolladora de software e
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias y Lenguajes</b>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,discord,github,java,js,linux,py,cs,react,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=css,html,vite,postgres,mysql,discord,github,java,js,linux,py,c#" />
   </a>
 </p>
 
