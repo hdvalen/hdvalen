@@ -25,4 +25,25 @@ Tecnologa en desarrollo de sistemas informáticos y desarrolladora de software e
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hdvalen&bg_color=ffffff&color=000000&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
+<div> 
+<table>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        
+  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=hdvalen&layout=compact&theme=dracula)
+
+  </div>
+</td>
+
+<td width="50%">
+  <div align="center">
+    
+  ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=hdvalen&show_icons=true&theme=dracula)
+
+  </div>
+</td>
+</tr>
+</div> 
+
 
